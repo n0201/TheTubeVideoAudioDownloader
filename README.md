@@ -1,8 +1,8 @@
 # ***TubeVideoAudioDownloader
-A small python based programm which is able to download YouTube video and audio files.
+A small python based programm which is able to download ***Tube video and audio files.
 ## Description
 
-A small python based programm which is able to download YouTube video and audio files.
+A small python based programm which is able to download ***Tube video and audio files.
 
 ### Dependencies
 
