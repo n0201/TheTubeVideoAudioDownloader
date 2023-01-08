@@ -6,7 +6,7 @@ A small python based programm which is able to download YouTube video and audio 
 
 ### Dependencies
 
-Windows 10
+Windows 10/11
 
 ### Executing program
 
@@ -19,7 +19,9 @@ Windows 10
 
 ## Authors
 
-Contributors names and contact info
-
 ex. n0201 
+
 ex. [@Conrad1406](https://github.com/Conrad1406)
+
+## About the program
+the program was written in Python using [Pytube](https://github.com/pytube/pytube) and [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and was converted to an easy usable program with [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) 
