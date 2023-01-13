@@ -32,4 +32,6 @@ ex. [@Conrad1406](https://github.com/Conrad1406)
 ## About the program
 the program was written in Python using [Pytube](https://github.com/pytube/pytube), [customtkinter](https://github.com/TomSchimansky/CustomTkinter), [winotify](https://github.com/versa-syahptr/winotify), [request](https://github.com/psf/requests) and [moviepy](https://github.com/Zulko/moviepy) and was converted to an easy usable program with [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
+
+##Important note
 Program will freeze while clicking on "Download", "get resolutions BETA VERY VERY slow" and on "Download video". This is not easy fixable and is normal. The biggest freeze will be when you download a video with the desired resolution as youtube will send a video and audio signal seperated which has to be merged whith moviepy. I might find a fix and "VERY VERY slow" might change to "Very slow" ;D 
