@@ -30,4 +30,7 @@ ex. n0201
 ex. [@Conrad1406](https://github.com/Conrad1406)
 
 ## About the program
-the program was written in Python using [Pytube](https://github.com/pytube/pytube) and [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and was converted to an easy usable program with [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) 
+the program was written in Python using [Pytube](https://github.com/pytube/pytube), [customtkinter](https://github.com/TomSchimansky/CustomTkinter), [winotify](https://github.com/versa-syahptr/winotify) and [request](https://github.com/psf/requests) and was converted to an easy usable program with [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+
+
+update which includes winotify and request will follow soon. you'll see how much power is behind it 😉
